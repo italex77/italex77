@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning design pattern
 - 💞️ I’m looking to collaborate on web deve, mobile dev and desktop dev
-- 📫 How to reach me ... ;)
+- 📫 How to reach me ... www.stim-isv.com
 
 <!---
 italex77/italex77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
